@@ -2,7 +2,7 @@
 
 My name is Elaine Yu. When I started to study at the Desautels Faculty of Management at McGill University, I found joy in making sense of complex data, building statistical models, and visualizing data for fun.  :paperclip:
 
-I embarked on exciting projects, from visualizing the distribution of dengue case clusters in Singapore to using Gurobi optimization for hotel's operation management.:book:
+I embarked on exciting projects, from visualizing the distribution of dengue case clusters in Singapore to using Gurobi optimization for hotel's operation management. :book:
 
 When I am not immersed in data, you can find me whipping up delicious cakes :cake: or exploring the ocean's depth through scuba diving.:whale:
 
